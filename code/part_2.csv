@@ -1,0 +1,9 @@
+Name,Value,
+max_epoch,150,
+batch_size,64,
+learning_rate,0.01,
+lamda,0.1,
+num_layers,4,
+num_units,7,
+Up_c,6,parmameter for the stopping criterion
+per_x_epoch,2,number of epochs after which to check for increase in generalization loss
